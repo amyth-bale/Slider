@@ -1,0 +1,17 @@
+body {
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    background: darkgrey;
+}
+
+.page-container {
+    background: #141416;
+    height: fit-content;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+img {
+    height: 100%;
+}
